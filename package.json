@@ -1,0 +1,21 @@
+{
+  "name": "professional-backend",
+  "version": "1.0.0",
+  "description": "a professional Backend app ",
+  "type": "module",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "roshan"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
