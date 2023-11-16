@@ -4,7 +4,6 @@
   "description": "a professional Backend app ",
   "type": "module",
   "main": "index.js",
-  
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -16,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.1.0"
   }
 }
